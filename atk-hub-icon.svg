@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="610" viewBox="0 0 640 610" role="img" aria-labelledby="ttl"><title id="ttl">ATK-HUB A icon</title><defs>
+<linearGradient id="leftA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04C5FF"/><stop offset=".52" stop-color="#146BF2"/><stop offset="1" stop-color="#062475"/></linearGradient>
+<linearGradient id="rightA" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#0A225D"/><stop offset=".58" stop-color="#1363DC"/><stop offset="1" stop-color="#06C8FF"/></linearGradient>
+<linearGradient id="crossA" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071C52"/><stop offset="1" stop-color="#0559C9"/></linearGradient>
+<linearGradient id="orbitBack" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0A38C8"/><stop offset="1" stop-color="#00B9FF"/></linearGradient>
+<linearGradient id="orbitFront" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#164CE6"/><stop offset=".6" stop-color="#007BFF"/><stop offset="1" stop-color="#02D8FB"/></linearGradient>
+<linearGradient id="pix1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0162F8"/><stop offset="1" stop-color="#04BEF9"/></linearGradient>
+<linearGradient id="pix2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#01C7FD"/><stop offset="1" stop-color="#007CEB"/></linearGradient>
+<linearGradient id="pix3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F55ED"/><stop offset="1" stop-color="#05BBFA"/></linearGradient>
+<linearGradient id="hubWord" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1069F3"/><stop offset=".58" stop-color="#0B89FB"/><stop offset="1" stop-color="#00C5E7"/></linearGradient>
+</defs>
+<!-- angular A emblem -->
+<path d="M65 535 L259 123 Q277 86 309 85 L349 85 Q374 86 386 109 L427 195 L332 335 L232 535 Z" fill="url(#leftA)"/>
+<path d="M357 126 L556 535 H435 L294 271 Z" fill="url(#rightA)"/>
+<path d="M204 425 L438 425 L451 460 L187 460 Z" fill="url(#crossA)" opacity=".98"/>
+<!-- swoosh suggesting an orbital toolkit hub -->
+<path d="M76 395 C152 344 410 208 526 196 C611 187 641 224 624 282" fill="none" stroke="url(#orbitBack)" stroke-width="16" stroke-linecap="round"/>
+<path d="M67 391 C-2 451 56 506 166 496 C350 480 560 388 622 293" fill="none" stroke="url(#orbitFront)" stroke-width="26" stroke-linecap="round"/>
+<rect x="515" y="108" width="52" height="52" rx="7" fill="url(#pix1)"/>
+<rect x="579" y="40" width="60" height="60" rx="8" fill="url(#pix2)"/>
+<rect x="583" y="168" width="33" height="33" rx="5" fill="url(#pix3)"/>
+</svg>
